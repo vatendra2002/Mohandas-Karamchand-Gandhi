@@ -1,0 +1,27 @@
+body{
+font-family: 'Montserrat', sans-serif;
+font-size: 1.6rem;
+line-height:1.5 ;
+text-align: center;
+color:#black;
+background-color:#edcfa9;
+}
+img{
+  background-color:;
+  padding:10px;
+  margin:0;
+}
+figure{
+  display:block;
+  margin-block-start:2.5em;
+  margin-block-end:1em;
+  margin-inline-start:15px;
+  margin-inline-end:15px;
+}
+li{
+  margin: 16px;
+  font-size: 20px;
+}
+ ul{
+   line-height:1.6;
+ }
